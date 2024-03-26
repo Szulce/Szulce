@@ -6,7 +6,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://uk.linkedin.com/in/magdalena-szulc-b0bb7415a)
 <!--
 **Szulce/Szulce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - :computer: Java Developer 
 - :hammer_and_wrench: `Java` `Spring` `C++` `Python` `SQL`  `PyCharm` `Linux` ...
-- :student: Master's Computer Science in Vienna University in Austria (Pending)
+- :student: Master's Computer Science in Vienna University in Austria (pending)
